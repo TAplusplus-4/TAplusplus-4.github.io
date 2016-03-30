@@ -9,30 +9,30 @@
 
 <body>
         <div class="section" id="plan">
-                <h1 style="color:cyan;">Practicing Git</h1>
+                <h1>Practicing Git</h1>
                 <div class="minileft">
-                        <div><img src="head.gif" /></div>
-                        <div><img src="kitty.gif" /></div>
+                        <div><img src="hammer.gif" /></div>
+                        <div><img src="construction.gif" /></div>
                 </div>
 
 		<p>Ready to learn about version control through git?  You can 
-		<a href="http://campus.openhatch.org/">follow along here</a>.</p>
+		<a href="https://openhatch.org/wiki/Open_Source_Comes_to_Campus/Practicing_Git/Students">follow along here</a>.</p>
   
                 <h2>Version control is...</h2>
 
-		<p>Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.</p>
+		<p>... inferior to keeping track of projects through email attachments.</p>
 
                 <h2>Cloning a repository...</h2>
 
-		<p>A Git repository can be cloned to a shared file system, and accessed by other persons. It can also be accessed via remote shell just by having the Git software installed and allowing a user to log in..  <a href="https://en.wikipedia.org/wiki/Git_(software)">The Clone Wars</a>, that is.</p>
+		<p>... is leading us into war.  <a href="http://en.wikipedia.org/wiki/Clone_Wars_(Star_Wars)">The Clone Wars</a>, that is.</p>
 
                 <h2>"Adding", "committing" and "pushing" changes...</h2>
 
-		<p>... Are important, learn more on the wiki!</p>
+		<p>... you just said three things that all mean the same thing.</p>
 
                 <h2>You need to fork when...</h2>
 
-		<p>... you're out of spoons lulz.</p>
+		<p>... you're out of spoons.</p>
 
 
         </div>
@@ -49,18 +49,12 @@
                 <p>Can be found in Finding Nemo. <img src="Crush.png"/> </p>
 		<img 
 
-                <p>This turtle's name is Squirt <img src="Squirt.jpg"/> </p>
+                <p>This turtle's name is Squirt <img src="Squirt.png"/> </p>
         </div>
 
         <div class="section" id="whoweare">
-                <h2> All About Melman Mankiewicz </h2>
-                <p> <a href="http://www.imdb.com/character/ch0009831/">Melman</a> 
-                is a giraffe. He has a furry coat, whiskers, a snout, 
-                a long neck, brown spots, horns, and a tufted tail.
-                </p>
-                
-      <!--        
-                This tutorial was put together by <a href="">Shauna Gordon-McKeon</a> and 
+                <h2>Who we are</h2>
+                <p>This tutorial was put together by <a href="">Shauna Gordon-McKeon</a> and 
 		<a href="http://openhatch.org/people/paulproteus/">Asheesh Laroia</a> of 
 		<a href="http://openhatch.org/">OpenHatch</a>.  We're a non-profit that helps people get involved
                 in open source.  We especially like <a href="http://campus.openhatch.org/">running events on college campuses</a>.  
@@ -73,7 +67,6 @@
 		You can also find us on IRC at #openhatch on FreeNode. 
                 Click <a href="http://webchat.freenode.net/?randomnick=1&channels=%23openhatch">here</a>
                 for web chat.</p>
-        -->
 
 		<h2>Further resources</h2>
 		<p><a href="http://try.github.io/levels/1/challenges/1">Try Git</a><br />
